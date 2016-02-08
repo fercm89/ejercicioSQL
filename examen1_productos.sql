@@ -1,4 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.9, for Win64 (x86_64)
+
+CREATE TABLE
 --
 -- Host: localhost    Database: examen1
 -- ------------------------------------------------------
